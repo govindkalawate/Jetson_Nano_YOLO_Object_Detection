@@ -26,15 +26,13 @@ make To run object detection with Darknet, we need a model config and model weig
 
 # Results from our kit - 
 
+https://user-images.githubusercontent.com/103236939/191591823-b9efcf22-0536-4c5e-8319-3456c71bcff6.mp4
 
-https://user-images.githubusercontent.com/103236939/191588759-e834d3da-2063-4cf1-a14a-fe3945bc1d27.mp4
-
- WhatsApp.Video.2022-09-19.at.19.46.41.1.mp4 
 # AUTHORS
 
 # SAMUDRA BANERJEE
 
-https://user-images.githubusercontent.com/103236939/191591823-b9efcf22-0536-4c5e-8319-3456c71bcff6.mp4
+![WhatsApp Image 2022-09-13 at 17 25 05](https://user-images.githubusercontent.com/103236939/191592152-1fdbf37e-f717-4db6-b1c1-7b6af3ec436a.jpeg)
 
 
 # GOVIND KALAWATE
