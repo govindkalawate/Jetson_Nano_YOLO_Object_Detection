@@ -36,17 +36,17 @@ https://user-images.githubusercontent.com/103236939/191591823-b9efcf22-0536-4c5e
 
 # AUTHORS
 
-# SAMUDRA BANERJEE
+# SAMUDRA BANERJEE(ML AND WEB DEVELOPER)
 
 ![WhatsApp Image 2022-09-13 at 17 25 05](https://user-images.githubusercontent.com/103236939/191592152-1fdbf37e-f717-4db6-b1c1-7b6af3ec436a.jpeg)
 
 
-# GOVIND KALAWATE
+# GOVIND KALAWATE(ML AND WEB DEVELOPER)
 
 ![WhatsApp Image 2022-09-21 at 10 39 41](https://user-images.githubusercontent.com/103236939/191588461-e010b72c-aa35-4b5d-94ec-592846f45799.jpeg)
 
 
-# OM WAGHMARE 
+# OM WAGHMARE (ML AND FLUTTER DEVELOPER)
 
 ![image](https://user-images.githubusercontent.com/103236939/191588528-e351582e-4d88-47da-b907-12c1078249ca.png)
 
