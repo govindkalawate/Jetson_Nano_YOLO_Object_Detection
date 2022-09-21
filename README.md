@@ -1,6 +1,6 @@
 # Jetson_Nano_YOLO_Object_Detection
 
-# NVIDIA Jetson Nano jetson 
+# NVIDIA Jetson Nano 
 
 ![image](https://user-images.githubusercontent.com/103236939/191592396-9962b527-aa4a-468c-8268-5a47074fa503.png)
 
@@ -13,7 +13,7 @@ We are grateful to NVIDIA and SRM Institute of Science and Technology for giving
 
 # Setting up NVIDIA Jetson Nano 
 
-![image](https://user-images.githubusercontent.com/103236939/191592576-bea0f5c3-a5b3-471b-b02c-a26caaae2e54.png)
+![WhatsApp Image 2022-09-22 at 00 57 51](https://user-images.githubusercontent.com/103236939/191595021-465fa70c-fd5a-46da-9f7e-f784a5df2808.jpeg)
 
 
 For setting up the kit for the first time we reffered to the tutorial made by the NVIDIA Developer - Video Link
