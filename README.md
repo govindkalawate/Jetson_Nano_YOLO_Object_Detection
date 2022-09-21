@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/103236939/191588759-e834d3da-2063-4cf1
 
 # SAMUDRA BANERJEE
 
-![WhatsApp Image 2022-09-13 at 17 25 05](https://user-images.githubusercontent.com/103236939/191588253-28b00483-34be-4092-bf1d-e20ab90933a0.jpeg)
+https://user-images.githubusercontent.com/103236939/191591823-b9efcf22-0536-4c5e-8319-3456c71bcff6.mp4
 
 
 # GOVIND KALAWATE
