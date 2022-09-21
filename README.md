@@ -2,7 +2,7 @@
 
 Object-Detection-in-Jetson-Nano NVIDIA Jetson Nano jetson
 
-189518011-1d189aaf-bfdf-4d54-b41b-495afd89cf15
+
 
 The NVIDIA Jetson Nano Developer Kit is an AI computer for makers, learners, and developers that brings the power of modern artificial intelligence to a low-power, easy-to-use platform. Get started quickly with out-of-the-box support for many popular peripherals, add-ons, and ready-to-use projects.
 
@@ -27,16 +27,21 @@ make To run object detection with Darknet, we need a model config and model weig
 Results from our kit -
 
  WhatsApp.Video.2022-09-19.at.19.46.41.1.mp4 
-AUTHORS
+# AUTHORS
 
-SAMUDRA BANERJEE
+# SAMUDRA BANERJEE
 
-WhatsApp Image 2022-09-13 at 17 25 05
+![WhatsApp Image 2022-09-13 at 17 25 05](https://user-images.githubusercontent.com/103236939/191588253-28b00483-34be-4092-bf1d-e20ab90933a0.jpeg)
 
-GOVINDH KALAWATE
 
-WhatsApp Image 2022-09-21 at 10 39 41
+# GOVINDH KALAWATE
 
-OM WAGHMARE
+![WhatsApp Image 2022-09-21 at 10 39 41](https://user-images.githubusercontent.com/103236939/191588461-e010b72c-aa35-4b5d-94ec-592846f45799.jpeg)
+
+
+# OM WAGHMARE 
+
+![image](https://user-images.githubusercontent.com/103236939/191588528-e351582e-4d88-47da-b907-12c1078249ca.png)
+
 
 image
