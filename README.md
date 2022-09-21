@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/103236939/191588759-e834d3da-2063-4cf1
 ![WhatsApp Image 2022-09-13 at 17 25 05](https://user-images.githubusercontent.com/103236939/191588253-28b00483-34be-4092-bf1d-e20ab90933a0.jpeg)
 
 
-# GOVINDH KALAWATE
+# GOVIND KALAWATE
 
 ![WhatsApp Image 2022-09-21 at 10 39 41](https://user-images.githubusercontent.com/103236939/191588461-e010b72c-aa35-4b5d-94ec-592846f45799.jpeg)
 
