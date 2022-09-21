@@ -1,6 +1,6 @@
 # Jetson_Nano_YOLO_Object_Detection
 
-# Object-Detection-in-Jetson-Nano NVIDIA Jetson Nano jetson 
+# NVIDIA Jetson Nano jetson 
 
 ![image](https://user-images.githubusercontent.com/103236939/191592396-9962b527-aa4a-468c-8268-5a47074fa503.png)
 
@@ -11,7 +11,10 @@ The NVIDIA Jetson Nano Developer Kit is an AI computer for makers, learners, and
 
 We are grateful to NVIDIA and SRM Institute of Science and Technology for giving us the opportunity to work on this project.
 
-# Setting up NVIDIA Jetson Nano
+# Setting up NVIDIA Jetson Nano 
+
+![image](https://user-images.githubusercontent.com/103236939/191592576-bea0f5c3-a5b3-471b-b02c-a26caaae2e54.png)
+
 
 For setting up the kit for the first time we reffered to the tutorial made by the NVIDIA Developer - Video Link
 
